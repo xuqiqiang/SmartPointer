@@ -1,0 +1,2 @@
+# SmartPointer
+Android中类似Java垃圾回收机制的智能指针，实现对象的自动回收
